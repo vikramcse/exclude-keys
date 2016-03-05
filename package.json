@@ -1,0 +1,20 @@
+{
+  "name": "exclude-keys",
+  "version": "1.0.0",
+  "description": "Return a copy of the object excluding the blacklisted properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/vikramcse/exclude-keys.git"
+  },
+  "keywords": ["omit", "object", "exclude", "remove", "filter", "blacklisted", "property"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
